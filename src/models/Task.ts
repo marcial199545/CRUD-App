@@ -1,5 +1,4 @@
 import { Schema, model } from "mongoose";
-import router from "../routes";
 const TaskSchema = new Schema({
     title: {
         type: String,

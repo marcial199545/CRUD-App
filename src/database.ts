@@ -1,5 +1,4 @@
 import mongoose from "mongoose";
-import { log } from "util";
 
 async function connect() {
     try {
